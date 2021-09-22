@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+[[mods]]
+modId="seasonalharvest2231976"
+version="Alpha 1.0"
+displayName="Seasonal Harvest 1.16.5"
+logoFile="examplemod.png"
+credits="Thanks for this example mod goes to Java"
+authors="GalaxyFox1976"
+description='''
+
+'''
+[[dependencies.seasonalharvest9543]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+    
+[[dependencies.seasonalharvest9543]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
